@@ -1,0 +1,3 @@
+[submodule "freecodecamp-bootcamp/foundrySimpleStorage/lib/forge-std"]
+	path = freecodecamp-bootcamp/foundrySimpleStorage/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
