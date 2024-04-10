@@ -7,3 +7,6 @@
 [submodule "freecodecamp-bootcamp/foundryFundMe/lib/chainlink-brownie-contracts"]
 	path = freecodecamp-bootcamp/foundryFundMe/lib/chainlink-brownie-contracts
 	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "freecodecamp-bootcamp/lottery/lib/forge-std"]
+	path = freecodecamp-bootcamp/lottery/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
