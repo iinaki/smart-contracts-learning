@@ -13,4 +13,4 @@ This is a lottery DApp. As you might know, there is no possibility to generate r
 
 ### 3. [`/bootcamps`](./bootcamps)
 
-In this folder im storing everything related to the Chainlink Bootcamp 2024, which I took part in, and also stuff that i got from Patrick Collins Solidity with Foundry 30hs course.
+In this folder im storing everything related to the Chainlink Bootcamp 2024, which I took part in, and also stuff that i got from Patrick Collins' Solidity with Foundry 30hs course.
