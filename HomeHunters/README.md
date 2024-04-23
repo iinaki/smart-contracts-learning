@@ -2,9 +2,11 @@
 
 This project is a Zillow clone that functions as a real estate NFT DApp. It allows sellers to list properties, buyers to purchase properties using cryptocurrency, and various stakeholders to verify and approve transactions. The app utilizes Solidity for smart contract development, JavaScript (React & Testing) for frontend development, Hardhat as a development framework for smart contracts, and Ethers.js for blockchain interaction.
 
-![How it looks](image.png)
+![How it looks](./img/how-it-looks.png)
 
 ## Project Flow
+
+![Project Flow](./img/HomeHuntersDrawPNG.png)
 
 1. **Seller Lists Property**: Sellers can list their properties on the platform.
 
