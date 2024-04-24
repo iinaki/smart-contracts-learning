@@ -1,4 +1,4 @@
-# Smart Contracts and Blockchain Development - by Iñaki Llorens
+# Smart Contracts and Blockchain Projects
 
 ![Chainlink Bootcamp 2024](./img/chainlink-bootcamp.png)
 
