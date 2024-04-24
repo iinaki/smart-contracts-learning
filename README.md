@@ -1,5 +1,7 @@
 # Smart Contracts and Blockchain Development - by Iñaki Llorens
 
+![Chainlink Bootcamp 2024](./img/chainlink-bootcamp.png)
+
 ### 1. [`/HomeHunters`](./HomeHunters)
 
 A real estate NFT DApp. It allows sellers to list properties, buyers to purchase properties using cryptocurrency, and various stakeholders to verify and approve transactions. The app utilizes Solidity for smart contract development, JavaScript (React & Testing) for frontend development, Hardhat as a development framework for smart contracts, and Ethers.js for blockchain interaction.
